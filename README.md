@@ -15,9 +15,9 @@ the provided `sample_thx.mp3` file.
 
 ### Final Video Output
 
-[[Click to watch the final video output]](samples/sample_thx_waveform.mp4)
+[[Click to watch the final video output]](https://github.com/divortio/divortio-audio-waveform/raw/refs/heads/main/samples/sample_thx_waveform.mp4)
 
-[![Click to watch the final video output](samples/sample_thx_intro_small.jpg)](samples/sample_thx_waveform.mp4)
+[![Click to watch the final video output](samples/sample_thx_intro_small.jpg)](https://github.com/divortio/divortio-audio-waveform/raw/refs/heads/main/samples/sample_thx_waveform.mp4)
 
 
 ### Key Moments
